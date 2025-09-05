@@ -1,6 +1,8 @@
 # 存放难找的工具软件
 
 
-## 小米电视安装Youtube
+## Youtube 安装包
 
-https://www.qq.com
+已验证可支持小米电视、小米投影仪
+
+https://github.com/xhbdfh/files/blob/main/YouTube.apk
