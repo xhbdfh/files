@@ -5,4 +5,4 @@
 
 已验证可支持小米电视、小米投影仪
 
-https://dl.liyue.name/files/YouTube.apk
+<https://dl.liyue.name/files/YouTube.apk>
